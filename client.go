@@ -1,4 +1,4 @@
-package mailtrap_client_go
+package mailtrap
 
 import (
 	"fmt"
